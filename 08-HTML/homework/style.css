@@ -1,0 +1,51 @@
+body {
+    background-image: url('/08-HTML/homework/imagen/cat.png');    
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+
+  }
+  
+
+ #thirdDiv {
+    margin: auto;
+    height: 600px;
+    width: 500px;
+    padding: 50px;
+    border-style: 5px solid black;
+  }
+
+  .divClass {
+    margin: auto;
+    color:rgb(137, 4, 4);
+  }
+
+  #spanId {
+    font-size: 18px;
+    margin: 50px;
+    text-align: center;
+  }
+
+  img {
+    width: 400px;
+  }
+
+  h1 {
+    color: purple;
+    text-align: center;
+  }
+  h3 {
+    text-align: center;
+  }
+  
+  h4 {
+    text-align: center;
+  }
+ 
+  a {
+    text-align: center;
+  }
+  
+ 

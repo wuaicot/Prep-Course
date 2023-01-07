@@ -1,0 +1,22 @@
+
+escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+* Variables: se usan para almacenar datos, por ejemplo imaginemos que una caja es una variable por que podemos asignarle un nombre y guardar diversos datos dentro.
+
+ * Strings:es una cadena de texto o datos que deve colocarse entre comillas
+
+ * Funciones (argumentos, `return`): Las funciones son los principales “bloques de construcción” del programa. Permiten que el código se llame muchas veces sin repetición.
+
+ * Declaraciones `if`: es una codicional 
+
+ * Valores booleanos (`true`, `false`): es el resultado de una comparacion . puede ser verdadero o falso
+
+________________________________________ - - - - - - - - - - - - - -_____________________________
+
+>> Deberás ir escribiendo código en `homework.js` y corriendo de nuevo los tests hasta que TODOS hayan pasado.
+
+4. Una vez que termines cada homework, súbela a tu repositorio `Prep.Course`, con los comandos que ya aprendiste a usar en la primera lección de git.
+ ***escribe aqui=> ' ' un "ok" cuando ya lo hayas hecho.***
+
+ ______________________________________ - - - - - - - - - - - - - -_____________________________
+
